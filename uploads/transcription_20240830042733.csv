@@ -1,0 +1,111 @@
+timestamp,transcription
+(0.0:0.0),"Olá, esse é um exemplo de texto para praticar a transcrição de audio."
+(0.0:6.0),"Nesse exercício, você poderá testar a precisão e eficiência do seu código ao converter"
+(0.0:11.0),fala em texto.
+(0.0:13.0),"A transcrição de audio é uma ferramenta valiosa utilizada em diversas áreas, como na produção"
+(0.0:19.0),"de conteúdo, a assistibilidade e até mesmo em assistentes virtuais."
+(0.0:24.0),Vamos adicionar mais algumas informações para tornar o teste mais completo.
+(0.0:31.0),"Por exemplo, número 1, 2, 3, 4, 5 agora, algumas datas, 14 de janeiro de 2024, 21 de agosto"
+(0.0:44.0),de 2024.
+(0.0:45.0),"E, por fim, horas, 14 e 39 e 45."
+(0.0:52.0),Boa sorte no seu teste de transcrição.
+(0.0:55.0),Espero que o resultado seja satisfatório.
+,
+Estatísticas,
+Total de palavras,120
+Palavras por minuto,122.99492645928355
+Percentual de palavras mágicas,0.0
+de,9
+a,4
+e,4
+em,3
+é,2
+para,2
+transcrição,2
+seu,2
+mais,2
+algumas,2
+o,2
+teste,2
+por,2
+14,2
+(0.0:0.0),1
+"olá,",1
+esse,1
+um,1
+exemplo,1
+texto,1
+praticar,1
+audio.,1
+(0.0:6.0),1
+nesse,1
+"exercício,",1
+você,1
+poderá,1
+testar,1
+precisão,1
+eficiência,1
+do,1
+código,1
+ao,1
+converter,1
+(0.0:11.0),1
+fala,1
+texto.,1
+(0.0:13.0),1
+audio,1
+uma,1
+ferramenta,1
+valiosa,1
+utilizada,1
+diversas,1
+"áreas,",1
+como,1
+na,1
+produção,1
+(0.0:19.0),1
+"conteúdo,",1
+assistibilidade,1
+até,1
+mesmo,1
+assistentes,1
+virtuais.,1
+(0.0:24.0),1
+vamos,1
+adicionar,1
+informações,1
+tornar,1
+completo.,1
+(0.0:31.0),1
+"exemplo,",1
+número,1
+"1,",1
+"2,",1
+"3,",1
+"4,",1
+5,1
+"agora,",1
+"datas,",1
+janeiro,1
+"2024,",1
+21,1
+agosto,1
+(0.0:44.0),1
+2024.,1
+(0.0:45.0),1
+"e,",1
+"fim,",1
+"horas,",1
+39,1
+45.,1
+(0.0:52.0),1
+boa,1
+sorte,1
+no,1
+transcrição.,1
+(0.0:55.0),1
+espero,1
+que,1
+resultado,1
+seja,1
+satisfatório.,1
